@@ -2,7 +2,7 @@
 
 **MQB7014: Health Economics**  
 **Master of Public Health (MPH) Programme, University of Malaya**  
-**Prepared by: Nithiah Thangiah**  
+**Prepared by: Dr. Nithiah Thangiah**  
 **Acknowledgement: Prof. Ng Chiu Wan, Dept. of Social and Preventive Medicine, Faculty of Medicine, University of Malaya**  
 
 ---
@@ -373,7 +373,7 @@ Healthcare’s unique characteristics distinguish it from other sectors:
 
 **MQB7014: Health Economics**  
 **Master of Public Health (MPH) Programme, University of Malaya**  
-**Prepared by: Nithiah Thangiah**  
+**Prepared by: Dr. Nithiah Thangiah**  
 **Acknowledgement: Prof. Ng Chiu Wan, Dept. of Social and Preventive Medicine, Faculty of Medicine, University of Malaya**  
 
 ---
@@ -787,10 +787,10 @@ Healthcare’s unique characteristics distinguish it from other sectors:
 
 **MQB7014: Health Economics**  
 **Master of Public Health (MPH) Programme, University of Malaya**  
-**Prepared by: Dr Ainol Haniza Kherul Anuwar**  
+**Prepared by: Dr. Ainol Haniza Kherul Anuwar**  
 **DDS (UGM), MCOH (Distinction) (Malaya), DrDPH (Malaya)**  
 **Department of Community Oral Health & Clinical Prevention, Faculty of Dentistry, Universiti Malaya**  
-**Credit: Prof Dr Ng Chiu Wan, Department of Social & Preventive Medicine, Faculty of Medicine, Universiti Malaya**  
+**Credit: Prof. Dr. Ng Chiu Wan, Department of Social & Preventive Medicine, Faculty of Medicine, Universiti Malaya**  
 
 ---
 
@@ -1173,7 +1173,7 @@ Provider payment mechanisms vary by the **unit of payment**, ranging from **simp
 
 **MQB7014: Health Economics**  
 **Master of Public Health (MPH) Programme, University of Malaya**  
-**Prepared by: Prof Ng Chiu Wan**  
+**Prepared by: Prof. Dr. Ng Chiu Wan**  
 **Department of Social and Preventive Medicine, Faculty of Medicine, University of Malaya**  
 
 ---
@@ -2061,7 +2061,7 @@ The lecture covers:
 # HE 6 - Equality, Equity, and Social Justice  
 **MQB7014: Health Economics**  
 **Master of Public Health (MPH) Programme, University of Malaya**  
-**Prepared by: Prof Ng Chiu Wan**  
+**Prepared by: Prof. Dr. Ng Chiu Wan**  
 **Dept. of Social and Preventive Medicine, Faculty of Medicine, University of Malaya**  
 **Date: 24th April 2025**
 
@@ -2445,7 +2445,7 @@ The lecture covers:
 
 **MQB7014: Health Economics**  
 **Master of Public Health (MPH) Programme, University of Malaya**  
-**Prepared by: Prof. Ng Chiu Wan**  
+**Prepared by: Prof. Dr. Ng Chiu Wan**  
 **Department of Social and Preventive Medicine, Faculty of Medicine, University of Malaya**
 
 ---

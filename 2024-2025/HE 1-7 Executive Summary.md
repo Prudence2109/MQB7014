@@ -1,7 +1,7 @@
 # Executive Summary for HE 1–7  
 
 **Master of Public Health (MPH) Programme, University of Malaya**  
-**Prepared by: Various Contributors (Nithiah Thangiah, Dr Ainol Haniza Kherul Anuwar, Prof Ng Chiu Wan)**
+**Prepared by: Various Contributors (Dr. Nithiah Thangiah, Dr. Ainol Haniza Kherul Anuwar, Prof. Dr. Ng Chiu Wan)**
 **Date: May 18, 2025**
 
 ---
@@ -167,34 +167,34 @@
 
 ## 📊 Key Terminologies Table
 
-| **Term**                     | **Definition**                                                                                     |
-| ---------------------------- | -------------------------------------------------------------------------------------------------- |
-| **Scarcity**                 | Condition where resources cannot meet unlimited wants, forcing trade-offs.                         |
-| **Utility**                  | Satisfaction from consuming goods/services, proxied by price paid.                                 |
-| **Opportunity Cost**         | Value of the next best alternative forgone.                                                       |
-| **Marginal Analysis**        | Decision-making based on incremental costs and benefits.                                           |
-| **Demand/Supply**            | Amount consumers/producers are willing and able to buy/sell at a given price.                     |
-| **Price Elasticity (PED)**   | Responsiveness of demand to price changes ($ \text{PED} = \frac{\% \Delta Q_d}{\% \Delta P} $).   |
-| **Cross Elasticity (CED)**   | Responsiveness of one good’s demand to another’s price change ($ \text{CED}_{AB} = \frac{\% \Delta Q_A}{\% \Delta P_B} $). |
-| **Market Equilibrium**       | Where quantity demanded equals supplied ($ Q_d = Q_s $).                                          |
-| **Perfect Competition**      | Market with many firms, identical products, free entry/exit, perfect information.                  |
-| **Derived Demand**           | Demand for a resource driven by demand for an outcome (e.g., healthcare for health).               |
-| **Provider-Induced Demand**  | Over-provision of services by providers for financial gain.                                       |
-| **Moral Hazard**             | Behavior change due to reduced risk exposure, increasing costs.                                    |
-| **Shadow Price**             | Cost of health, varying by age and education.                                                     |
-| **Adverse Selection**        | High-risk individuals more likely to join insurance, raising premiums.                            |
-| **Risk Pooling**             | Spreading healthcare costs across a population via prepayment.                                    |
-| **National Health Accounts** | Accounts tracking health expenditure flows for policy and planning.                               |
-| **Catastrophic Payments**    | OOP spending exceeding household resource thresholds (e.g., >10% consumption).                    |
-| **Concentration Index**      | Measures inequality in OOP payments ($ \text{CI} = 2 \times \text{Area} $).                       |
-| **Cherry-Picking**           | Insurers favoring low-risk individuals for profit.                                                |
-| **Managed Care**             | Techniques to control healthcare costs and utilization.                                           |
-| **UHC**                      | Access to quality services without financial hardship.                                            |
-| **Inequity**                 | Avoidable, unjust health differences.                                                            |
-| **Inverse Care Law**         | Care availability inversely proportional to need.                                                 |
-| **Social Determinants**      | Structural factors (e.g., wealth, power) shaping health outcomes.                                 |
-| **Market Failure**           | Inefficient resource allocation by markets.                                                      |
-| **Public/Merit Goods**       | Non-rivalrous/non-excludable or under-consumed goods (e.g., vaccines).                            |
-| **Pigouvian/Sin Tax**        | Taxes on activities/products with negative externalities (e.g., tobacco).                         |
+| **Term**                     | **Definition**                                                                                                           |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| **Scarcity**                 | Condition where resources cannot meet unlimited wants, forcing trade-offs.                                               |
+| **Utility**                  | Satisfaction from consuming goods/services, proxied by price paid.                                                       |
+| **Opportunity Cost**         | Value of the next best alternative forgone.                                                                              |
+| **Marginal Analysis**        | Decision-making based on incremental costs and benefits.                                                                 |
+| **Demand/Supply**            | Amount consumers/producers are willing and able to buy/sell at a given price.                                            |
+| **Price Elasticity (PED)**   | Responsiveness of demand to price changes ($\text{PED} = \frac{\% \Delta Q_d}{\% \Delta P}$).                            |
+| **Cross Elasticity (CED)**   | Responsiveness of one good’s demand to another’s price change ($\text{CED}_{AB} = \frac{\% \Delta Q_A}{\% \Delta P_B}$). |
+| **Market Equilibrium**       | Where quantity demanded equals supplied ($Q_d = Q_s$).                                                                   |
+| **Perfect Competition**      | Market with many firms, identical products, free entry/exit, perfect information.                                        |
+| **Derived Demand**           | Demand for a resource driven by demand for an outcome (e.g., healthcare for health).                                     |
+| **Provider-Induced Demand**  | Over-provision of services by providers for financial gain.                                                              |
+| **Moral Hazard**             | Behavior change due to reduced risk exposure, increasing costs.                                                          |
+| **Shadow Price**             | Cost of health, varying by age and education.                                                                            |
+| **Adverse Selection**        | High-risk individuals more likely to join insurance, raising premiums.                                                   |
+| **Risk Pooling**             | Spreading healthcare costs across a population via prepayment.                                                           |
+| **National Health Accounts** | Accounts tracking health expenditure flows for policy and planning.                                                      |
+| **Catastrophic Payments**    | OOP spending exceeding household resource thresholds (e.g., >10% consumption).                                           |
+| **Concentration Index**      | Measures inequality in OOP payments ($\text{CI} = 2 \times \text{Area}$).                                                |
+| **Cherry-Picking**           | Insurers favoring low-risk individuals for profit.                                                                       |
+| **Managed Care**             | Techniques to control healthcare costs and utilization.                                                                  |
+| **UHC**                      | Access to quality services without financial hardship.                                                                   |
+| **Inequity**                 | Avoidable, unjust health differences.                                                                                    |
+| **Inverse Care Law**         | Care availability inversely proportional to need.                                                                        |
+| **Social Determinants**      | Structural factors (e.g., wealth, power) shaping health outcomes.                                                        |
+| **Market Failure**           | Inefficient resource allocation by markets.                                                                              |
+| **Public/Merit Goods**       | Non-rivalrous/non-excludable or under-consumed goods (e.g., vaccines).                                                   |
+| **Pigouvian/Sin Tax**        | Taxes on activities/products with negative externalities (e.g., tobacco).                                                |
 
 ---
