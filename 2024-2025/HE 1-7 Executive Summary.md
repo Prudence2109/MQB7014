@@ -1,7 +1,7 @@
 # Executive Summary for HE 1–7  
 
 **Master of Public Health (MPH) Programme, University of Malaya**  
-**Prepared by: Various Contributors (Dr Nithiah Thangiah, Dr Ainol Haniza Kherul Anuwar, Prof Ng Chiu Wan)**
+**Prepared by: Various Contributors (Dr. Nithiah Thangiah, Dr. Ainol Haniza Kherul Anuwar, Prof. Dr. Ng Chiu Wan)**
 **Date: May 18, 2025**
 
 ---
