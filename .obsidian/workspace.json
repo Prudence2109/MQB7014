@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-2025/HE06.md",
+                "file": "2024-2025/HE07.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HE06"
+              "title": "HE07"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-2025/HE06.md",
+                "file": "2024-2025/HE07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for HE06"
+              "title": "Backlinks for HE07"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-2025/HE06.md",
+                "file": "2024-2025/HE07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from HE06"
+              "title": "Outgoing links from HE07"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-2025/HE06.md",
+                "file": "2024-2025/HE07.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of HE06"
+              "title": "Outline of HE07"
             }
           }
         ],
@@ -185,8 +185,8 @@
   },
   "active": "2eaeeab392facb8b",
   "lastOpenFiles": [
-    "2024-2025/HE07.md",
     "2024-2025/HE06.md",
+    "2024-2025/HE07.md",
     "2024-2025/HE05.md",
     "2024-2025/HE04.md",
     "2024-2025/HE03.md",
