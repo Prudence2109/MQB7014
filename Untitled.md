@@ -1,82 +1,92 @@
-## 📝 Executive Summary: HE 9 - Economic Evaluation I
+## 🧠 Self-Assessment Questions
+### 📝 Short Answer Questions
+*To test conceptual understanding of key terminologies and principles introduced in HE 1.*
 
-The lecture **HE 9 - Economic Evaluation I**, delivered on **May 22, 2025**, as part of the **MQB7014: Health Economics** module in the **Master of Public Health (MPH)** programme at the University of Malaya, introduces the foundational principles of **economic evaluation** in healthcare. Presented by **Dr. Ainol Haniza Kherul Anuwar** with credit to **Prof. Dr. Maznah Dahlui**, the lecture emphasizes the role of economic evaluation in addressing **scarcity**, guiding **resource allocation**, and ensuring **value for money** in health systems, particularly in Malaysia’s context. Through a structured exploration of definitions, types, economic concepts, perspectives, and timing, the lecture equips students to make **evidence-based**, **equitable**, and **efficient** decisions that align with **Universal Health Coverage (UHC)** and **Health Technology Assessment (HTA)** goals. Below is a concise summary of the key points and terminologies introduced, designed to provide a clear overview for public health professionals and policymakers 🌍.
+1. Define **health economics** and explain how it differs from general economics in addressing **scarcity** in health care. 🩺
+2. What is meant by **asymmetry of information** in health care, and how does it impact patient decision-making? 🤔
+3. Explain the concept of **externalities** in health care, providing one example of a **positive externality**. 🌍
+4. Describe the **cost-benefit principle** and its role in rational decision-making in health care. 📈
+5. What is the **law of diminishing returns**, and how might it apply to healthcare resource allocation? 📉
+6. How does the **human right** status of health influence health economics analysis? ⚖️
+7. Define **opportunity costs** and provide an example in the context of Malaysia’s health system. 🔄
+8. What is a **provider monopoly**, and why does it reduce patient choice in health care? 🔒
+9. Explain the role of **marginal analysis** in making health care investment decisions. 📊
+10. Why are **uncertainties** a unique characteristic of health care compared to other economic sectors? ❓
 
-### 📚 Overview of Economic Evaluation 🩺
+### 🔢 Calculation-based Questions
+*To test quantitative application of economic principles, focusing on scarcity, opportunity costs, and marginal analysis.*
 
-**Economic evaluation** is a cornerstone of health economics, defined as _“a comparative analysis of alternative courses of action in terms of both their costs and consequences”_ (Drummond et al., 2005). It addresses the **fundamental challenge of scarcity**—where **limited resources** (money, staff, facilities) cannot meet **infinite health needs**—by providing a systematic framework to assess **value for money**. The lecture highlights its applications in Malaysia, such as prioritizing **high-impact programs** like **Peka B40** and **Vaccination Programmes**, and supporting **HTA** through **MaHTAS**. Key concepts include **opportunity cost**, **efficiency**, and **marginal analysis**, with evaluations tailored to perspectives like **societal** or **patient** to ensure **transparency** and **equity**.
+1. **Budget Allocation for Health Programs**  
+   A Malaysian public hospital has a budget of RM 100,000 to allocate between two programs: **vaccination** (costing RM 50 per dose, benefiting 500 people per 1,000 doses) and **diabetes screening** (costing RM 200 per screening, benefiting 200 people per 1,000 screenings).  
+   - Calculate the **opportunity cost** of allocating RM 50,000 to vaccinations in terms of foregone diabetes screenings.  
+   - If the hospital increases vaccination funding by RM 10,000 (from RM 50,000 to RM 60,000), how many additional people are benefited, and what is the **marginal benefit** per RM 1,000 spent?  
+   - \[ \text{Opportunity Cost} = \frac{\text{Budget Allocated to Vaccinations}}{\text{Cost per Screening}} \]  
+   - \[ \text{Marginal Benefit} = \frac{\text{Additional People Benefited}}{\text{Additional Budget (in thousands)}} \]
 
-### 🔍 Key Points from the Lecture 📋
+2. **Marginal Analysis for Hospital Staffing**  
+   A clinic in Malaysia hires additional nurses at RM 3,000 per month each. The table below shows the number of patients served daily as nurses are added:  
 
-The lecture is structured into 11 sections, each addressing critical aspects of economic evaluation:
+   | Nurses | Patients Served Daily |
+   |--------|-----------------------|
+   | 1      | 20                    |
+   | 2      | 35                    |
+   | 3      | 45                    |
+   | 4      | 50                    |
+   | 5      | 52                    |
 
-- **Introduction to Economic Evaluation**: Defines economic evaluation as a tool to compare **costs** and **consequences**, emphasizing its role in addressing **scarcity** and guiding遵
+   - Calculate the **marginal benefit** (additional patients served) of hiring each additional nurse.  
+   - Using **marginal analysis**, determine the optimal number of nurses if the clinic values each additional patient served at RM 200.  
+   - Explain how the **law of diminishing returns** applies to this scenario.
 
-System: It looks like the input was cut off mid-sentence. Based on the provided instructions and the lecture content for **HE 9 - Economic Evaluation I**, I’ll complete the executive summary, ensuring **full fidelity** to the original content, incorporating all key points and terminologies from Sections 1–11, and adhering to the formatting requirements (clear headings, bold highlights, bullet points, tables, emojis, LaTeX for equations, and no dash dividers). The response will be structured for Obsidian Markdown compatibility, with tables using consistent pipes (|) and dashes (-), and will include a dedicated section for **key terminologies** introduced in the lecture. If further elaboration is needed, I’ll indicate continuation options.
+3. **Cost-Benefit Analysis for Equipment Investment**  
+   A Malaysian health ministry considers purchasing an MRI machine for RM 2,000,000, expected to serve 1,000 patients annually, reducing treatment costs by RM 500 per patient. Maintenance costs are RM 100,000 annually.  
+   - Calculate the **net benefit** of the investment in the first year using the **cost-benefit principle** (\[ \text{Net Benefit} = (\text{Benefit per Patient} \times \text{Patients Served}) - (\text{Cost} + \text{Maintenance}) \]).  
+   - If the machine’s efficiency decreases by 10% annually (serving 10% fewer patients each year), at what year does the **net benefit** become negative?  
+   - Discuss how **opportunity costs** influence this decision if the budget could fund 50,000 vaccinations at RM 40 each.
 
----
+### 📄 Short-Essay Questions
+*To apply concepts to practical scenarios, demonstrating conceptual understanding and problem-solving skills.*
 
-## 📝 Executive Summary
+1. **Scarcity in Malaysia’s Health System**  
+   Explain how **scarcity** affects resource allocation in Malaysia’s health system, using the 2022 health expenditure data (RM 78,945M, 4.41% GDP). Discuss one **trade-off** the Ministry of Health faces when prioritizing hospital funding over preventive care, and propose a solution to balance these priorities. 🩺
 
-The lecture **HE 9 - Economic Evaluation I**, delivered on **May 22, 2025**, as part of the **MQB7014: Health Economics** module in the **Master of Public Health (MPH)** programme at the University of Malaya, introduces the foundational principles of **economic evaluation** in healthcare. Presented by **Dr. Ainol Haniza Kherul Anuwar** with credit to **Prof. Dr. Maznah Dahlui**, the lecture emphasizes the role of economic evaluation in addressing **scarcity**, guiding **resource allocation**, and ensuring **value for money** in health systems, particularly in Malaysia’s context. Through a structured exploration of definitions, types, economic concepts, perspectives, and timing, the lecture equips students to make **evidence-based**, **equitable**, and **efficient** decisions that align with **Universal Health Coverage (UHC)** and **Health Technology Assessment (HTA)** goals. Below is a concise summary of the key points and terminologies introduced, designed to provide a clear overview for public health professionals and policymakers 🌍.
+2. **Asymmetry of Information in Patient Care**  
+   Describe how **asymmetry of information** between doctors and patients impacts health care decision-making in Malaysia. Provide an example of a scenario where this leads to suboptimal care, and suggest a policy to mitigate this issue. 🤔
 
-### 📚 Overview of Economic Evaluation 🩺
+3. **Externalities and Public Health**  
+   Discuss how **externalities** in health care, such as herd immunity, justify government intervention in Malaysia. Explain one public health program (e.g., vaccination campaign) that leverages **positive externalities**, and evaluate its economic impact. 🌍
 
-**Economic evaluation** is a cornerstone of health economics, defined as _“a comparative analysis of alternative courses of action in terms of both their costs and consequences”_ (Drummond et al., 2005). It addresses the **fundamental challenge of scarcity**—where **limited resources** (money, staff, facilities) cannot meet **infinite health needs**—by providing a systematic framework to assess **value for money**. The lecture highlights its applications in Malaysia, such as prioritizing **high-impact programs** like **Peka B40** and **Vaccination Programmes**, and supporting **HTA** through **MaHTAS**. Key concepts include **opportunity cost**, **efficiency**, and **marginal analysis**, with evaluations tailored to perspectives like **societal** or **patient** to ensure **transparency** and **equity** in decision-making.
+4. **Rational Decision-Making in Health Policy**  
+   Using the **rational person** concept, explain how a Malaysian hospital administrator might decide whether to invest in a new dialysis unit. Discuss how **cost-benefit analysis** and **opportunity costs** influence this decision, referencing Malaysia’s hospitalization data (2.6M public, 1.3M private in 2023). 🏥
 
-### 🔍 Key Points from the Lecture 📋
+5. **Law of Diminishing Returns in Resource Allocation**  
+   Apply the **law of diminishing returns** to a scenario where a Malaysian clinic increases its budget for diagnostic equipment. Explain how additional spending might yield **diminishing returns**, and propose a strategy to optimize resource use. 📉
 
-The lecture is structured into 11 sections, each addressing critical aspects of **economic evaluation**:
+### 🩺 Structured Case Study Questions
+*To analyze complex scenarios, providing critical analysis and policy recommendations with sub-questions to structure responses.*
 
-- **Introduction to Economic Evaluation**: Introduces **economic evaluation** as a **comparative**, **systematic** tool to assess **value for money**, guiding **resource allocation** in Malaysia’s health system to address **scarcity** and support **UHC** goals 🩺.
-- **Challenge of Scarcity in Healthcare**: Highlights **scarcity** as the driver of **trade-offs**, where **limited resources** force **prioritization** (e.g., funding **cancer screening** vs. **ICU beds**). Traditional **gut feelings** are inadequate, necessitating **rational frameworks** like economic evaluation 🌍.
-- **Defining Economic Evaluation**: Defines it as a **comparative analysis** of **costs** and **consequences**, answering _“Is the added benefit worth the additional cost?”_ It supports **efficient allocation**, prioritizing **high-value interventions** (e.g., comparing treatments costing RM 10,000 vs. RM 14,000 for 3 vs. 4 life years) 💰.
-- **Understanding Costs and Consequences**: Outlines **costs** (direct medical, non-medical, indirect, intangible) and **consequences** (clinical, preference-weighted, economic), which must be **identified**, **measured**, and **valued** based on **perspective** 📈.
-- **Relevance to Health Systems**: Emphasizes economic evaluation’s role in addressing **limited budgets** and **rising demand**, ensuring **transparency**, **accountability**, and **fair resource use** in Malaysia’s **HTA** (via **MaHTAS**), **formulary listing** (**MyHEALTH**, **MyHD**), and **UHC** initiatives 🌐.
-- **Types of Economic Evaluation**: Details four types—**CMA** (same outcomes, cost-focused), **CEA** (natural units, e.g., life years), **CUA** (QALYs/DALYs), and **CBA** (monetary outcomes)—each suited to specific contexts, with **CUA** preferred for **HTA** in Malaysia 📊.
-- **Partial vs. Full Economic Evaluation**: Contrasts **partial evaluations** (single intervention, no comparator) with **full evaluations** (comparing alternatives), noting that **full evaluations** provide a **robust basis** for decision-making ⚖️.
-- **Core Economic Concepts**: Explores **opportunity cost** (trade-offs), **scarcity** (limited resources), **efficiency** (technical and allocative), and **marginal analysis** (incremental cost-benefit via **ICER**), underpinning **value-driven** decisions 🧠.
-- **Perspective in Economic Evaluation**: Defines **perspective** as determining **whose costs** and **benefits** are included (societal, health system, payer, patient), with examples like **breast cancer therapy** yielding different conclusions per perspective 👁️.
-- **Timing and Situations for Economic Evaluation**: Identifies when to conduct evaluations (e.g., new interventions, scaling programs, budget allocation) and when to avoid them (e.g., uncertain outcomes), emphasizing alignment with **planning cycles** ⏰.
-- **Key Takeaways**: Summarizes economic evaluation as a tool for **wise decisions** in **scarcity**, supporting **equity**, **efficiency**, and **sustainability** in Malaysia’s health system and beyond 🌟.
+1. **Case Study: Resource Allocation in a Malaysian Public Hospital**  
+   A public hospital in Kuala Lumpur, funded by Malaysia’s **2022 health expenditure** (RM 78,945M), faces a budget constraint of RM 10M for the next year. The hospital must decide between expanding **emergency services** (cost: RM 6M, benefiting 5,000 patients annually) or **community outreach programs** (cost: RM 4M, benefiting 10,000 people through preventive care). The hospital serves 100,000 patients annually, with **externalities** from outreach (e.g., reduced disease spread) impacting the community.  
+   - **Conceptual Understanding**: Define **scarcity** and **opportunity costs**, and explain how they apply to this hospital’s decision.  
+   - **Analysis**: Using the **cost-benefit principle**, compare the benefits and costs of each option, considering **externalities** (e.g., herd immunity from outreach).  
+   - **Policy Recommendation**: Propose a funding allocation strategy, justifying your choice with **marginal analysis** and referencing Malaysia’s **public health priorities**.  
+   - **Synthesis**: Discuss how **asymmetry of information** between hospital staff and patients might influence the implementation of your strategy, and suggest a mitigation approach.  
 
-### 📖 Key Terminologies Introduced 🧠
+2. **Case Study: Private Clinic Monopolies in Rural Malaysia**  
+   A rural town in Sabah relies on a single private clinic, creating a **provider monopoly**. The clinic charges high fees, limiting access for low-income families (reflecting Malaysia’s **4M private outpatient visits** in 2023). The state government considers subsidies or public clinic expansion to improve **equity**.  
+   - **Conceptual Understanding**: Explain **provider monopolies** and their impact on **patient choice** and **health care costs**.  
+   - **Analysis**: Analyze how the **monopoly** contributes to **inequity** in access, using the concept of **human right** to health.  
+   - **Policy Recommendation**: Recommend a policy (e.g., subsidies, new public clinic) to address the **monopoly**, incorporating **cost-benefit analysis** and **externalities** (e.g., community health benefits).  
+   - **Synthesis**: Discuss how **scarcity** and **opportunity costs** shape the feasibility of your policy in Sabah’s resource-constrained context, referencing Malaysia’s **health expenditure** data.
 
-The lecture introduces several **key terminologies** critical to understanding **economic evaluation**:
+### 📜 Open-Ended Long Essay Questions
+*To provide in-depth analysis of complex healthcare challenges, encouraging critical thinking, synthesis, and policy recommendations with Malaysia-specific and global applications.*
 
-- **Economic Evaluation**: _A comparative analysis of alternative courses of action in terms of both their costs and consequences_ (Drummond et al., 2005). It assesses **value for money** to guide resource allocation 💰.
-- **Scarcity**: _Resources (money, staff, time, technology) are limited, but health needs are unlimited_, necessitating **prioritization** and **trade-offs** 🌍.
-- **Opportunity Cost**: _The value of the next best alternative forgone when a decision is made_, highlighting trade-offs (e.g., funding **vaccinations** vs. **ICU beds**) 💸.
-- **Costs**: _The value of resources used in an intervention_, including:
-    - **Direct Medical Costs**: Expenses like **hospital stays**, **medications**, **staff time** 🩺.
-    - **Direct Non-Medical Costs**: Costs like **transport**, **caregiving** 🚗.
-    - **Indirect Costs**: **Productivity losses** due to illness or treatment 💼.
-    - **Intangible Costs**: Non-monetized costs like **pain**, **anxiety** 😟.
-- **Consequences**: _The outcomes or effects of an intervention_, including:
-    - **Clinical**: Outcomes like **infections prevented**, **life years gained** 📈.
-    - **Preference-Weighted**: Metrics like **QALYs** (Quality-Adjusted Life Years) or **DALYs** (Disability-Adjusted Life Years) ⚖️.
-    - **Economic**: **Monetized outcomes** in **CBA** 💵.
-- **Value for Money**: The balance of **costs** and **health benefits**, ensuring resources deliver maximum impact 📊.
-- **Cost-Minimization Analysis (CMA)**: Compares costs when outcomes are identical, choosing the cheapest option (e.g., bioequivalent drugs) 💰.
-- **Cost-Effectiveness Analysis (CEA)**: Measures outcomes in **natural units** (e.g., life years), using the **ICER** (Incremental Cost-Effectiveness Ratio, $\text{ICER} = \frac{\Delta \text{Cost}}{\Delta \text{Effectiveness}}$) to assess cost per outcome (e.g., RM 50,000/life year) 📈.
-- **Cost-Utility Analysis (CUA)**: Uses **QALYs** or **DALYs** to capture **quantity** and **quality of life**, common in **HTA** (e.g., RM 100,000/QALY) ⚖️.
-- **Cost-Benefit Analysis (CBA)**: Converts outcomes to **monetary value**, comparing benefits to costs (e.g., workplace health ROI) 💵.
-- **Partial Evaluation**: A **cost-outcome study** of a single intervention without a comparator, limiting **relative value** assessment 🔍.
-- **Full Economic Evaluation**: Compares **two or more interventions** for **robust decision-making** (e.g., vaccine vs. standard care) ⚖️.
-- **Efficiency**: _Achieving maximum benefit from available resources_, via:
-    - **Technical Efficiency**: Lowest cost for a given output (e.g., generic drugs) 💊.
-    - **Allocative Efficiency**: Maximizing **population health** (e.g., prioritizing vaccinations) 🌐.
-- **Marginal Analysis**: Examines **incremental cost** and **benefit** of small changes, using **ICER** to optimize decisions 🧠.
-- **Perspective**: Defines **whose costs and benefits** are included (e.g., **societal**, **health system**, **payer**, **patient**), shaping evaluation outcomes 👁️.
-- **Health Technology Assessment (HTA)**: Evaluates **new drugs** or **devices** for cost-effectiveness, used by **MaHTAS** in Malaysia 🧪.
-- **Universal Health Coverage (UHC)**: Ensures **equitable access** to healthcare, supported by economic evaluation 🌍.
+1. **Balancing Scarcity and Equity in Malaysia’s Health System**  
+   Analyze how **scarcity** shapes **resource allocation** decisions in Malaysia’s health system, using the **2022 health expenditure** (RM 78,945M, 4.41% GDP) and **hospitalization data** (2.6M public, 1.3M private) as context. Discuss the challenges of ensuring **health as a human right** in the face of **provider monopolies** and **asymmetry of information**. Propose a **policy framework** to balance **equity** and **efficiency**, incorporating **marginal analysis** and **cost-benefit principles**. Compare Malaysia’s approach with a global example (e.g., UK’s NHS or Thailand’s UHC), and evaluate its implications for achieving **universal health coverage**. 🌍
 
-### 🌟 Why This Matters 🇲🇾
+2. **Leveraging Externalities for Public Health in Malaysia**  
+   Explore how **externalities** (e.g., herd immunity) in health care justify government intervention in Malaysia’s **public health system**. Using the concept of **health economics**, analyze a specific public health program (e.g., Malaysia’s National Immunization Programme) and its economic impact, considering **opportunity costs** and the **law of diminishing returns**. Propose a **policy strategy** to maximize **positive externalities** while addressing **scarcity** constraints. Discuss how Malaysia’s approach compares to a global example (e.g., Brazil’s vaccination campaigns), and recommend adaptations to enhance **health outcomes** and **equity** globally. 🩺
 
-The lecture underscores **economic evaluation** as a tool for **wise decisions** in the face of **scarcity**, ensuring **equity**, **efficiency**, and **sustainability** in Malaysia’s health system. By applying concepts like **ICER**, **QALYs**, and **perspective**, professionals can prioritize **high-impact programs** (e.g., **Peka B40**, **Vaccination Programmes**) and support **HTA** via **MaHTAS** and **UHC** goals. Globally, these principles transform **limited resources** into **maximum health impact**, empowering students to drive **evidence-based policymaking** 🌟.
-
-|**Key Takeaway**|**Why It Matters**|
-|---|---|
-|**Economic evaluation** assesses **value for money**|Guides **efficient** resource allocation|
-|**Types** (CMA, CEA, CUA, CBA) suit diverse contexts|Aligns with **HTA** and **UHC** goals|
-|**Perspective** and **timing** shape outcomes|Ensures **equitable** and **relevant** decisions|
+3. **Rational Decision-Making in Malaysia’s Health Policy**  
+   Critically evaluate how **rational decision-making**, guided by the **rational person** concept, can address **health care challenges** in Malaysia, referencing **2023 outpatient visit data** (19M public, 4M private). Analyze the role of **cost-benefit analysis** and **marginal analysis** in prioritizing health investments (e.g., hospital expansion vs. primary care). Discuss how **uncertainties** and **asymmetry of information** complicate these decisions, and propose a **policy intervention** to enhance decision-making clarity. Compare Malaysia’s health policy approach with a global example (e.g., Singapore’s health financing), and suggest lessons for improving **resource allocation** and **health system efficiency**. 📈
