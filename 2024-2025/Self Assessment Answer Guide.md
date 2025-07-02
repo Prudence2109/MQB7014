@@ -117,6 +117,97 @@ These questions (150–200 words) require **application** of concepts to practic
     - **Economies of scale** in Malaysia’s **Managed Care Organizations (MCOs)** reduce **unit costs** by spreading fixed expenses (e.g., equipment) over more patients, as larger providers integrate services (Section 5). This lowers costs in urban areas, but **monopolistic tendencies** may increase prices or compromise quality if unchecked. For example, MCOs’ adoption of **high-tech medicine** attracts patients but raises costs (Section 5). To balance **cost reduction** with **quality assurance**, Malaysia could adopt a **regulatory framework** inspired by the UK’s **NICE**, mandating **cost-effectiveness reviews** for MCO treatments (Section 7). This policy ensures affordable, evidence-based care without sacrificing quality, promoting **equity** for low-income patients (Section 8). Regular audits and quality benchmarks would maintain standards, aligning with **WHO’s expectation-meeting goal**, ensuring Malaysia’s **dual system** remains efficient and equitable. 🔬
     - **Word Count**: 136 words.
 
+## 🧠 Structured Case Study Questions
+
+These questions require **analysis of complex scenarios**, providing **critical analysis** and **policy recommendations**. Each includes **sub-questions** with detailed answers.
+
+### Case Study: Implementing Separation of Prescribing and Dispensing in Malaysia
+
+**Scenario**: Malaysia’s Ministry of Health is considering a nationwide policy to separate **drug prescribing and dispensing** in private GP practices to improve **patient safety** and reduce **provider-induced demand**. Rural areas, however, lack sufficient pharmacies, and GPs rely on dispensing revenue. Design a policy rollout plan.
+
+1. **Conceptual Understanding**: Define **provider-induced demand** and explain how it contributes to **market failure** in Malaysia’s private GP practices.
+    
+    - **Answer**:
+        - **Provider-induced demand** occurs when providers, such as GPs, **over-provide services** (e.g., unnecessary prescriptions) to increase income, especially in **fee-for-service** models (Section 5). In Malaysia’s private GP practices, where GPs both **prescribe and dispense** medications, dispensing is a **profit center**, incentivizing over-prescription of costly drugs (Section 2). This contributes to **market failure** by misaligning resources—patients receive treatments not based on **clinical need** but on financial motives, inflating costs and reducing **efficiency**. This also exacerbates **information asymmetry**, as patients rely on GPs without knowing if prescriptions are necessary, undermining **informed decision-making** (Section 5). The result is a market that fails to deliver **optimal healthcare outcomes**, necessitating government intervention to correct this inefficiency. 🩺
+2. **Application**: Identify two **merits** of the separation policy (e.g., safety, cost control) and link them to **health system goals** (WHO, 2000).
+    
+    - **Answer**:
+        - **Merit 1: Enhanced Patient Safety**: By assigning **dispensing** to pharmacists, the policy leverages their expertise to **verify prescriptions**, reducing **medication errors**, **drug interactions**, and **inappropriate dosages** (Section 2). This aligns with the **WHO’s goal of improving population health** by ensuring safer, more effective treatments (Section 6).
+        - **Merit 2: Cost Control**: Pharmacists can offer **generic drugs** or **competitive pricing**, lowering costs compared to GP-dispensed medications (Section 2). This supports the **WHO’s goal of providing financial protection** by making medications more affordable, particularly for low-income patients, thus promoting **equity** (Section 6). These merits enhance **health outcomes** and **financial accessibility**, key pillars of a robust health system. 💊
+3. **Critical Analysis**: Discuss one **challenge** for rural Malaysia and analyze its impact on **equity**.
+    
+    - **Answer**:
+        - **Challenge**: In **rural Malaysia**, pharmacies are scarce, potentially **inconveniencing patients** who rely on GPs for one-stop prescribing and dispensing (Section 2). This could reduce **access to medications**, as rural patients may need to travel long distances, increasing costs and time burdens.
+        - **Impact on Equity**: This challenge undermines **equity** by disproportionately affecting **rural and low-income groups**, who face greater barriers to accessing pharmacies compared to urban populations (Section 4). Without adequate pharmacy infrastructure, the policy could exacerbate **avoidable disparities** (Whitehead, 1990), as rural patients may forgo medications, worsening health outcomes and contradicting the goal of **fair distribution** of care (Section 8). 🌍
+4. **Policy Recommendation**: Propose a **specific solution** to address the rural challenge, justifying how it promotes **access** and **fairness**.
+    
+    - **Answer**:
+        - **Solution**: Implement **mobile pharmacies** to deliver medications to rural areas, as suggested in the lecture (Section 2). These units can operate as roving dispensaries, staffed by pharmacists who verify prescriptions and provide generics, ensuring rural patients access medications without traveling.
+        - **Justification**: Mobile pharmacies promote **access** by bringing services to remote communities, reducing geographic barriers. They enhance **fairness** by ensuring **equitable care** for rural populations, aligning with **WHO’s equity focus** (Section 6). By maintaining separation benefits (e.g., **safety**, **cost control**), this solution supports **clinical need** over profit motives, countering **provider-induced demand** and fostering a more equitable health system in Malaysia. 🚚
+
+### Case Study: Addressing Insurance Market Failures in Malaysia
+
+**Scenario**: Malaysia’s private insurance market faces **adverse selection** and **moral hazard**, limiting coverage for low-income groups. The government is exploring **Social Health Insurance (SHI)** to complement public care.
+
+1. **Conceptual Understanding**: Explain **adverse selection** and **moral hazard** in the context of Malaysia’s insurance market.
+    
+    - **Answer**:
+        - **Adverse selection**: Occurs when high-risk individuals are more likely to buy insurance, increasing **premiums** as insurers anticipate higher costs (Section 5). In Malaysia’s private insurance market, this leads to limited uptake among low-income groups, who cannot afford high premiums, leaving them reliant on public care.
+        - **Moral hazard**: Insured individuals **overuse services** (e.g., unnecessary clinic visits) due to reduced **perceived costs**, as insurance covers expenses (Section 5). In Malaysia, corporate insurance plans encourage excessive private clinic visits, inflating costs. Both phenomena contribute to **market failure** by making insurance unaffordable and inefficient, excluding the poor and driving up system costs. 📉
+2. **Application**: Describe how **SHI** could mitigate these failures, referencing a lecture example.
+    
+    - **Answer**:
+        - **Social Health Insurance (SHI)** mitigates **adverse selection** by mandating universal or broad participation, creating a larger, balanced risk pool that includes healthy individuals, thus lowering premiums (Section 5). It addresses **moral hazard** by implementing controls like co-payments or gatekeeping, reducing unnecessary service use. The lecture notes Malaysia’s proposals for a **national SHI** to complement public care (Section 5), ensuring broader coverage for low-income groups. By pooling contributions and subsidizing the poor, SHI aligns with **WHO’s financial protection goal** (Section 6), reducing out-of-pocket costs and enhancing **equity**, as seen in Malaysia’s public system subsidies. 🛡️
+3. **Critical Analysis**: Evaluate one potential **drawback** of SHI implementation (e.g., cost, uptake) and its impact on **financial protection**.
+    
+    - **Answer**:
+        - **Drawback**: High implementation **costs** for SHI, including administrative setup, contribution collection, and subsidies for the poor, could strain Malaysia’s budget (Section 5, inferred from infrastructure costs in separation policy).
+        - **Impact on Financial Protection**: High costs may lead to underfunding, limiting coverage scope or delaying rollout, which undermines **financial protection** (WHO, 2000) for low-income groups (Section 6). If contributions are unaffordable, some may remain uninsured, perpetuating **inequities** and out-of-pocket burdens, especially in rural areas where access is already limited (Section 4). This could weaken the policy’s ability to shield citizens from catastrophic health costs, a key health system goal. 💰
+4. **Policy Recommendation**: Suggest a **strategy** to overcome the drawback, ensuring **equitable coverage** for low-income groups.
+    
+    - **Answer**:
+        - **Strategy**: Implement a **tiered contribution model** for SHI, where contributions are scaled by income, with government subsidies covering the lowest-income groups, inspired by the UK’s **national insurance** model (Section 7).
+        - **Justification**: This strategy reduces **cost barriers** by ensuring affordability, promoting **equitable coverage** for low-income groups. Subsidies align with Malaysia’s existing public healthcare financing (Section 6), enhancing **financial protection** by minimizing out-of-pocket expenses. A phased rollout, starting in urban areas, can manage costs while building infrastructure, ensuring **access** and **fairness** across socioeconomic groups, as emphasized in the lecture’s **equity focus** (Section 8). 📋
+
+## 📖 Open-Ended Long Essay Questions
+
+These questions (400–500 words) require **in-depth analysis**, **critical thinking**, **synthesis**, and **policy recommendations** with **Malaysia-specific** and **global applications**. Each includes a detailed answer.
+
+### 1. Role of Government Intervention in Malaysia’s Dual System
+
+**Question**: Evaluate the role of **government intervention** in correcting **market failures** in Malaysia’s dual healthcare system, comparing it to the UK’s NHS and USA’s market-based system. Discuss how **information asymmetry** and **externalities** are addressed, and recommend one policy to enhance **equity** in Malaysia, drawing on global lessons.
+
+- **Answer**:
+    - **Government intervention** in Malaysia’s **dual healthcare system** corrects **market failures** by balancing public subsidies with private sector efficiency, addressing **information asymmetry** and **externalities** to promote **equity**. **Information asymmetry**, where patients lack medical knowledge, is mitigated through **health promotion campaigns** like **MySejahtera** for COVID-19 updates, empowering informed decisions (Section 6). **Externalities**, such as **herd immunity** from vaccinations, are addressed via **free immunization programs**, ensuring societal benefits (Section 5). The **UK’s NHS** uses **general taxation** to provide universal care, reducing **information asymmetry** through **NICE guidelines** and addressing **externalities** like infectious diseases via public health measures (Section 7). The **USA’s market-based system**, however, struggles with **insurance gaps** (8.9% uninsured, 2016) and **moral hazard**, exacerbating **information asymmetry** due to limited public campaigns and **externalities** like under-vaccination (Section 7).
+    - In Malaysia, **Klinik Kesihatan** and public hospitals ensure **equitable access** for the poor, but private sector reliance by wealthier groups creates disparities (Section 4). The UK’s **universal coverage** achieves greater **equity** (78.6% government-funded expenditure), while the USA’s private dominance limits access (50.4% government-funded). Malaysia’s **GDP per capita** ($9,421$) and **life expectancy** ($72$ years) reflect progress but highlight resource constraints compared to the UK ($81.2$ years) (Section 4, 7).
+    - **Policy Recommendation**: Introduce a **national Social Health Insurance (SHI)** system, inspired by the UK’s **national insurance** model, to expand coverage and reduce out-of-pocket costs (Section 5). A tiered contribution system, with subsidies for low-income groups, would enhance **equity**, addressing **adverse selection** and ensuring **financial protection** (WHO, 2000). Learning from the USA’s challenges, Malaysia should mandate participation to stabilize premiums, while UK-style **cost-effectiveness reviews** ensure efficiency. This policy would strengthen Malaysia’s **dual system**, reducing disparities and aligning with **WHO’s equity focus** (Section 8).
+    - **Word Count**: 316 words (can be expanded to 400–500 with further detail on implementation or global comparisons if needed).
+
+### 2. Feasibility of Social Health Insurance in Malaysia
+
+**Question**: Analyze the feasibility of implementing a **Social Health Insurance (SHI)** system in Malaysia to address **insurance market failures**. Assess the potential benefits for **low-income groups**, challenges in implementation, and propose a phased rollout plan, referencing the UK’s financing model.
+
+- **Answer**:
+    - Implementing **Social Health Insurance (SHI)** in Malaysia is feasible to address **insurance market failures** like **adverse selection** (high-risk individuals raising premiums) and **moral hazard** (overuse of insured services), which limit coverage for **low-income groups** (Section 5). **Benefits** include broader coverage, reducing out-of-pocket costs and aligning with **WHO’s financial protection goal** (Section 6). For example, SHI could subsidize premiums for the poor, similar to Malaysia’s **public healthcare subsidies**, ensuring **equitable access** (Section 6). The UK’s **NHS**, funded by **general taxation** and **national insurance** (78.6% government expenditure, 2018), offers a model where contributions ensure universal coverage, minimizing financial barriers (Section 7).
+    - **Challenges** include high **implementation costs** (e.g., administrative systems, provider networks) and **public uptake**, as low-income groups may resist contributions (Section 5). Rural areas, with limited infrastructure, could face access issues, undermining **equity** (Section 4). Malaysia’s **middle-income status** ($9,421$ GDP per capita) constrains funding compared to the UK ($4,620$ per capita expenditure).
+    - **Phased Rollout Plan**:
+        - **Phase 1 (Urban Pilot)**: Launch SHI in urban areas with existing private providers, using tiered contributions based on income, subsidized for low-income groups.
+        - **Phase 2 (Rural Expansion)**: Extend to rural areas, integrating with **Klinik Kesihatan** and mobile clinics to ensure access.
+        - **Phase 3 (National Scale)**: Mandate participation, drawing on UK’s national insurance, with government funding to cover the poorest, ensuring **equity**.
+    - This plan leverages Malaysia’s **dual system**, mitigates **cost escalation** seen in the USA, and promotes **financial protection**, ensuring **low-income groups** benefit from affordable care (Section 8).
+    - **Word Count**: 280 words (can be expanded with details on funding mechanisms or stakeholder engagement).
+
+### 3. Balancing Economies of Scale and Equity in Malaysia
+
+**Question**: Discuss how Malaysia can balance **economies of scale** in its private sector (e.g., MCOs) with **equity** in healthcare access. Propose a regulatory framework to ensure **cost control** without compromising quality, drawing on the UK’s NICE guidelines.
+
+- **Answer**:
+    - Malaysia’s **Managed Care Organizations (MCOs)** leverage **economies of scale** to reduce **unit costs** by spreading fixed expenses (e.g., diagnostic equipment) over more patients, lowering costs in urban areas (Section 5). However, this can create **monopolistic tendencies**, raising prices or prioritizing profitable services, which undermines **equity** for low-income or rural groups (Section 4). The UK’s **NHS** uses **NICE guidelines** to ensure **cost-effectiveness** without sacrificing quality, balancing efficiency with universal access (Section 7). Malaysia’s **dual system** must similarly ensure **equitable access** while harnessing MCO efficiency.
+    - **Challenges** include MCOs’ focus on **high-tech medicine**, which increases costs and may exclude the poor, and **quality variability** if profit motives dominate (Section 5). Rural areas, with fewer MCOs, face access gaps, exacerbating **disparities** (Section 4).
+    - **Regulatory Framework**:
+        - Establish a **National Health Technology Assessment Board**, modeled on **NICE**, to evaluate MCO treatments for **cost-effectiveness** and **clinical value**.
+        - Mandate **quality benchmarks**, requiring MCOs to report outcomes
+
 ---
 
 ## 📝 HE 9 - Economic Evaluation I
