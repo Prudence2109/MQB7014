@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-2025/Self Assessment Answer Guide.md",
+                "file": "2024-2025/HE01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Self Assessment Answer Guide"
+              "title": "HE01"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-2025/Self Assessment Answer Guide.md",
+                "file": "2024-2025/HE01.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Self Assessment Answer Guide"
+              "title": "Outline of HE01"
             }
           }
         ],
@@ -185,8 +185,15 @@
   },
   "active": "2eaeeab392facb8b",
   "lastOpenFiles": [
-    "2024-2025/HE07.md",
+    "Pasted image 20250518225223.png",
+    "Pasted image 20250518215713.png",
+    "Pasted image 20250518203717.png",
+    "Pasted image 20250518201641.png",
+    "Pasted image 20250518175830.png",
+    "Pasted image 20250518175742.png",
+    "Pasted image 20250518225237.png",
     "2024-2025/Self Assessment Answer Guide.md",
+    "2024-2025/HE07.md",
     "2024-2025/HE10.md",
     "2024-2025/HE09.md",
     "2024-2025/HE01.md",
