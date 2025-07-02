@@ -1,92 +1,67 @@
-## 🧠 Self-Assessment Questions
-### 📝 Short Answer Questions
-*To test conceptual understanding of key terminologies and principles introduced in HE 1.*
+## 📚 10. Case Study: HER2+ Breast Cancer
 
-1. Define **health economics** and explain how it differs from general economics in addressing **scarcity** in health care. 🩺
-2. What is meant by **asymmetry of information** in health care, and how does it impact patient decision-making? 🤔
-3. Explain the concept of **externalities** in health care, providing one example of a **positive externality**. 🌍
-4. Describe the **cost-benefit principle** and its role in rational decision-making in health care. 📈
-5. What is the **law of diminishing returns**, and how might it apply to healthcare resource allocation? 📉
-6. How does the **human right** status of health influence health economics analysis? ⚖️
-7. Define **opportunity costs** and provide an example in the context of Malaysia’s health system. 🔄
-8. What is a **provider monopoly**, and why does it reduce patient choice in health care? 🔒
-9. Explain the role of **marginal analysis** in making health care investment decisions. 📊
-10. Why are **uncertainties** a unique characteristic of health care compared to other economic sectors? ❓
+This case study applies the principles of **economic evaluation** to a real-world scenario, comparing **Drug A** (a new targeted therapy) versus **Drug B** (standard chemotherapy) for women with **early-stage HER2+ breast cancer**. Presented as part of the lecture on **May 30, 2025**, this section illustrates how to conduct a **full economic evaluation**, integrating **costing**, **outcome measurement**, **incremental analysis**, and **threshold comparison** to inform **policy decisions** in Malaysia’s resource-constrained healthcare system 🌍. By analyzing **costs**, **outcomes**, and **cost-effectiveness**, this case study highlights the practical application of economic evaluation in prioritizing **high-impact interventions** while addressing **budget constraints** and **equity** concerns 🩺.
 
-### 🔢 Calculation-based Questions
-*To test quantitative application of economic principles, focusing on scarcity, opportunity costs, and marginal analysis.*
+### 📖 Scenario
 
-1. **Budget Allocation for Health Programs**  
-   A Malaysian public hospital has a budget of RM 100,000 to allocate between two programs: **vaccination** (costing RM 50 per dose, benefiting 500 people per 1,000 doses) and **diabetes screening** (costing RM 200 per screening, benefiting 200 people per 1,000 screenings).  
-   - Calculate the **opportunity cost** of allocating RM 50,000 to vaccinations in terms of foregone diabetes screenings.  
-   - If the hospital increases vaccination funding by RM 10,000 (from RM 50,000 to RM 60,000), how many additional people are benefited, and what is the **marginal benefit** per RM 1,000 spent?  
-   - \[ \text{Opportunity Cost} = \frac{\text{Budget Allocated to Vaccinations}}{\text{Cost per Screening}} \]  
-   - \[ \text{Marginal Benefit} = \frac{\text{Additional People Benefited}}{\text{Additional Budget (in thousands)}} \]
+- **Context**: Comparing **Drug A** (new targeted therapy) vs. **Drug B** (standard chemotherapy) for women with **early-stage HER2+ breast cancer**.
+- **Parameters**:
+    - **Target Population**: Women with early-stage HER2+ breast cancer.
+    - **Perspective**: Health system.
+    - **Time Horizon**: 5 years.
+    - **Discount Rate**: **3%** (simplified for illustration).
 
-2. **Marginal Analysis for Hospital Staffing**  
-   A clinic in Malaysia hires additional nurses at RM 3,000 per month each. The table below shows the number of patients served daily as nurses are added:  
+**Elaboration**: This **scenario** focuses on a critical decision for Malaysia’s healthcare system: whether to adopt **Drug A**, a new targeted therapy, over **Drug B**, the standard chemotherapy, for women with **early-stage HER2+ breast cancer**, a condition with significant health and economic implications. The **target population** is clearly defined to ensure the evaluation is relevant to a specific group, aligning with clinical needs. The **health system perspective** focuses on **direct medical costs** (e.g., drug acquisition, hospital stays), reflecting the priorities of Malaysia’s Ministry of Health in managing public healthcare budgets. A **5-year time horizon** captures medium-term costs and outcomes, such as survival and quality of life, while the **3% discount rate** adjusts future values to their present worth, aligning with Malaysia’s Health Technology Assessment (HTA) guidelines. This scenario sets the stage for a **systematic evaluation**, demonstrating how economic tools guide **policy-relevant** decisions in Malaysia 💉.
 
-   | Nurses | Patients Served Daily |
-   |--------|-----------------------|
-   | 1      | 20                    |
-   | 2      | 35                    |
-   | 3      | 45                    |
-   | 4      | 50                    |
-   | 5      | 52                    |
+### 📊 Input Data
 
-   - Calculate the **marginal benefit** (additional patients served) of hiring each additional nurse.  
-   - Using **marginal analysis**, determine the optimal number of nurses if the clinic values each additional patient served at RM 200.  
-   - Explain how the **law of diminishing returns** applies to this scenario.
+The table below presents the **input data** for the economic evaluation of Drug A and Drug B:
 
-3. **Cost-Benefit Analysis for Equipment Investment**  
-   A Malaysian health ministry considers purchasing an MRI machine for RM 2,000,000, expected to serve 1,000 patients annually, reducing treatment costs by RM 500 per patient. Maintenance costs are RM 100,000 annually.  
-   - Calculate the **net benefit** of the investment in the first year using the **cost-benefit principle** (\[ \text{Net Benefit} = (\text{Benefit per Patient} \times \text{Patients Served}) - (\text{Cost} + \text{Maintenance}) \]).  
-   - If the machine’s efficiency decreases by 10% annually (serving 10% fewer patients each year), at what year does the **net benefit** become negative?  
-   - Discuss how **opportunity costs** influence this decision if the budget could fund 50,000 vaccinations at RM 40 each.
+|**Intervention**|**Cost (RM)**|**QALYs Gained**|
+|---|---|---|
+|Drug B (Standard)|20,000|1.5|
+|Drug A (New)|60,000|2.0|
 
-### 📄 Short-Essay Questions
-*To apply concepts to practical scenarios, demonstrating conceptual understanding and problem-solving skills.*
+**Elaboration**: The **input data** provide the foundation for comparing **Drug A** and **Drug B**. **Costs** are measured in Malaysian Ringgit (RM), with **Drug B** costing **RM 20,000** and **Drug A** costing **RM 60,000**, reflecting the higher expense of targeted therapies. **Quality-Adjusted Life Years (QALYs)** measure health outcomes, with **Drug B** yielding **1.5 QALYs** and **Drug A** yielding **2.0 QALYs**, indicating better survival and quality of life with the new therapy. These data, derived from clinical trials or costing studies, are critical for Malaysia’s **health system perspective**, ensuring the evaluation reflects **real-world costs** and **health benefits**. Accurate inputs are essential for **credible results**, guiding decisions on whether to fund a costly intervention like Drug A 📊.
 
-1. **Scarcity in Malaysia’s Health System**  
-   Explain how **scarcity** affects resource allocation in Malaysia’s health system, using the 2022 health expenditure data (RM 78,945M, 4.41% GDP). Discuss one **trade-off** the Ministry of Health faces when prioritizing hospital funding over preventive care, and propose a solution to balance these priorities. 🩺
+### 🧮 Calculations
 
-2. **Asymmetry of Information in Patient Care**  
-   Describe how **asymmetry of information** between doctors and patients impacts health care decision-making in Malaysia. Provide an example of a scenario where this leads to suboptimal care, and suggest a policy to mitigate this issue. 🤔
+- **Incremental Cost**:  
+    $$ \text{Cost}_A - \text{Cost}_B = 60,000 - 20,000 = \text{RM 40,000} $$
+- **Incremental QALYs**:  
+    $$ 2.0 - 1.5 = 0.5 \text{ QALYs} $$
+- **ICER**:  
+    $$ \text{ICER} = \frac{40,000}{0.5} = \text{RM 80,000 per QALY} $$
 
-3. **Externalities and Public Health**  
-   Discuss how **externalities** in health care, such as herd immunity, justify government intervention in Malaysia. Explain one public health program (e.g., vaccination campaign) that leverages **positive externalities**, and evaluate its economic impact. 🌍
+**Elaboration**: The **calculations** apply **incremental analysis** to quantify the **additional cost** and **benefit** of Drug A over Drug B:
 
-4. **Rational Decision-Making in Health Policy**  
-   Using the **rational person** concept, explain how a Malaysian hospital administrator might decide whether to invest in a new dialysis unit. Discuss how **cost-benefit analysis** and **opportunity costs** influence this decision, referencing Malaysia’s hospitalization data (2.6M public, 1.3M private in 2023). 🏥
+- **Incremental Cost**: Subtracting Drug B’s cost (RM 20,000) from Drug A’s cost (RM 60,000) yields $$ \text{RM 60,000 - 20,000 = RM 40,000} $$, representing the **extra cost** of adopting Drug A.
+- **Incremental QALYs**: Subtracting Drug B’s QALYs (1.5) from Drug A’s QALYs (2.0) gives $$ 2.0 - 1.5 = 0.5 \text{ QALYs} $$, indicating the **additional health benefit** of Drug A.
+- **Incremental Cost-Effectiveness Ratio (ICER)**: Dividing the incremental cost by the incremental QALYs, $$ \text{ICER} = \frac{40,000}{0.5} = \text{RM 80,000 per QALY} $$, shows the **cost per additional QALY** gained by choosing Drug A.
 
-5. **Law of Diminishing Returns in Resource Allocation**  
-   Apply the **law of diminishing returns** to a scenario where a Malaysian clinic increases its budget for diagnostic equipment. Explain how additional spending might yield **diminishing returns**, and propose a strategy to optimize resource use. 📉
+These calculations are critical in Malaysia, where the **ICER** helps policymakers assess whether the **RM 80,000 per QALY** is worth the investment, balancing **health gains** with **budget constraints** 🧮.
 
-### 🩺 Structured Case Study Questions
-*To analyze complex scenarios, providing critical analysis and policy recommendations with sub-questions to structure responses.*
+### 📈 Interpretation
 
-1. **Case Study: Resource Allocation in a Malaysian Public Hospital**  
-   A public hospital in Kuala Lumpur, funded by Malaysia’s **2022 health expenditure** (RM 78,945M), faces a budget constraint of RM 10M for the next year. The hospital must decide between expanding **emergency services** (cost: RM 6M, benefiting 5,000 patients annually) or **community outreach programs** (cost: RM 4M, benefiting 10,000 people through preventive care). The hospital serves 100,000 patients annually, with **externalities** from outreach (e.g., reduced disease spread) impacting the community.  
-   - **Conceptual Understanding**: Define **scarcity** and **opportunity costs**, and explain how they apply to this hospital’s decision.  
-   - **Analysis**: Using the **cost-benefit principle**, compare the benefits and costs of each option, considering **externalities** (e.g., herd immunity from outreach).  
-   - **Policy Recommendation**: Propose a funding allocation strategy, justifying your choice with **marginal analysis** and referencing Malaysia’s **public health priorities**.  
-   - **Synthesis**: Discuss how **asymmetry of information** between hospital staff and patients might influence the implementation of your strategy, and suggest a mitigation approach.  
+- **Thresholds**:
+    - **WTP (RM 100,000/QALY)**: Drug A is **cost-effective**.
+    - **GDP (RM 50,000/QALY)**: Drug A is **not cost-effective**.
+    - **Opportunity Cost (RM 30,000–50,000/QALY)**: Drug A is **not cost-effective**.
+- **Decision Factors**:
+    - **Budget constraints**.
+    - **Disease severity**.
+    - **Equity considerations** (e.g., access for low-income patients).
 
-2. **Case Study: Private Clinic Monopolies in Rural Malaysia**  
-   A rural town in Sabah relies on a single private clinic, creating a **provider monopoly**. The clinic charges high fees, limiting access for low-income families (reflecting Malaysia’s **4M private outpatient visits** in 2023). The state government considers subsidies or public clinic expansion to improve **equity**.  
-   - **Conceptual Understanding**: Explain **provider monopolies** and their impact on **patient choice** and **health care costs**.  
-   - **Analysis**: Analyze how the **monopoly** contributes to **inequity** in access, using the concept of **human right** to health.  
-   - **Policy Recommendation**: Recommend a policy (e.g., subsidies, new public clinic) to address the **monopoly**, incorporating **cost-benefit analysis** and **externalities** (e.g., community health benefits).  
-   - **Synthesis**: Discuss how **scarcity** and **opportunity costs** shape the feasibility of your policy in Sabah’s resource-constrained context, referencing Malaysia’s **health expenditure** data.
+**Elaboration**: The **interpretation** of the ICER (**RM 80,000/QALY**) involves comparing it to **thresholds** that reflect Malaysia’s willingness to pay for health gains:
 
-### 📜 Open-Ended Long Essay Questions
-*To provide in-depth analysis of complex healthcare challenges, encouraging critical thinking, synthesis, and policy recommendations with Malaysia-specific and global applications.*
+- **WTP Threshold (RM 100,000/QALY)**: Drug A’s ICER of **RM 80,000/QALY** is below the **Ministry of Health/HTA implied willingness-to-pay (WTP)** threshold (RM 90,000–120,000/QALY), making it **cost-effective**. This suggests Drug A is a viable investment for Malaysia’s public health system, offering significant health benefits within acceptable cost limits 🌟.
+- **GDP Threshold (RM 50,000/QALY)**: Based on WHO-CHOICE’s 1× GDP per capita threshold (~RM 50,000/QALY), Drug A is **not cost-effective**, as its ICER exceeds this limit. This highlights the **simplistic nature** of GDP-based thresholds, which may not account for Malaysia’s specific **budget constraints** or **health priorities**.
+- **Opportunity Cost Threshold (RM 30,000–50,000/QALY)**: Reflecting the **health gains forgone** when diverting resources, this threshold deems Drug A **not cost-effective**, as its ICER exceeds the range. This is critical in Malaysia, where **scarce resources** require prioritizing interventions with lower opportunity costs 📉.
 
-1. **Balancing Scarcity and Equity in Malaysia’s Health System**  
-   Analyze how **scarcity** shapes **resource allocation** decisions in Malaysia’s health system, using the **2022 health expenditure** (RM 78,945M, 4.41% GDP) and **hospitalization data** (2.6M public, 1.3M private) as context. Discuss the challenges of ensuring **health as a human right** in the face of **provider monopolies** and **asymmetry of information**. Propose a **policy framework** to balance **equity** and **efficiency**, incorporating **marginal analysis** and **cost-benefit principles**. Compare Malaysia’s approach with a global example (e.g., UK’s NHS or Thailand’s UHC), and evaluate its implications for achieving **universal health coverage**. 🌍
+**Decision Factors** influence the final recommendation:
 
-2. **Leveraging Externalities for Public Health in Malaysia**  
-   Explore how **externalities** (e.g., herd immunity) in health care justify government intervention in Malaysia’s **public health system**. Using the concept of **health economics**, analyze a specific public health program (e.g., Malaysia’s National Immunization Programme) and its economic impact, considering **opportunity costs** and the **law of diminishing returns**. Propose a **policy strategy** to maximize **positive externalities** while addressing **scarcity** constraints. Discuss how Malaysia’s approach compares to a global example (e.g., Brazil’s vaccination campaigns), and recommend adaptations to enhance **health outcomes** and **equity** globally. 🩺
+- **Budget Constraints**: Malaysia’s limited healthcare budget may restrict funding for costly interventions like Drug A, despite its cost-effectiveness under the WTP threshold.
+- **Disease Severity**: The life-threatening nature of HER2+ breast cancer may justify higher costs, as improved survival and quality of life are critical.
+- **Equity Considerations**: Ensuring **access for low-income patients** is vital in Malaysia, where out-of-pocket costs can exacerbate **financial toxicity**. A **health system perspective** may overlook these, but **equity** could tip the decision toward funding Drug A if it addresses unmet needs.
 
-3. **Rational Decision-Making in Malaysia’s Health Policy**  
-   Critically evaluate how **rational decision-making**, guided by the **rational person** concept, can address **health care challenges** in Malaysia, referencing **2023 outpatient visit data** (19M public, 4M private). Analyze the role of **cost-benefit analysis** and **marginal analysis** in prioritizing health investments (e.g., hospital expansion vs. primary care). Discuss how **uncertainties** and **asymmetry of information** complicate these decisions, and propose a **policy intervention** to enhance decision-making clarity. Compare Malaysia’s health policy approach with a global example (e.g., Singapore’s health financing), and suggest lessons for improving **resource allocation** and **health system efficiency**. 📈
+This interpretation underscores the need for **context-sensitive analysis** in Malaysia, balancing **cost-effectiveness**, **health priorities**, and **equity** to guide **policy decisions** 📊.
