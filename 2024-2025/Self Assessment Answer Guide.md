@@ -218,7 +218,7 @@ These questions test the ability to apply **economic evaluation** principles thr
 
 **Question**: A new diabetes drug costs **RM 20,000** per patient and provides **5 life years**, while standard care costs **RM 12,000** and provides **4 life years**.
 
-- Calculate the **ICER** using the formula: $$ \text{ICER} = \frac{\Delta \text{Cost}}{\Delta \text{Effectiveness}} $$
+- Calculate the **ICER** using the formula: $$\text{ICER} = \frac{\Delta \text{Cost}}{\Delta \text{Effectiveness}}$$
 - Interpret whether the new drug is cost-effective if Malaysia’s threshold is **RM 30,000 per life year gained**.
 
 **Answer**:
